@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "mini-css-extract-plugin": "^2.5.0",
     "pug": "^3.0.2",
     "pug-runtime": "^3.0.1",
     "react": "^17.0.2",
@@ -61,5 +62,8 @@
     "@storybook/react": "^6.4.13",
     "chromatic": "^6.3.4",
     "webpack": "^5.66.0"
+  },
+  "resolutions": {
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
